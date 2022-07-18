@@ -1,0 +1,15 @@
+#mkdir 0x03
+# call directory then make a file ...vi up_to_date
+in it right anything you want
+
+save and quit...wq!
+
+git add . ....
+
+
+git commit -m 'hhhhhhhh'
+
+
+
+
+then .......git push to..... send to your github
